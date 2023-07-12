@@ -1,0 +1,38 @@
+.Main {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    height: 100vh;
+  }
+  
+  .container {
+    text-align: center;
+  }
+  
+  ul {
+    text-align: center;
+    padding-left: 0;
+  }
+  
+  ul li {
+    list-style-position: inside;
+  }
+  
+  #button{
+    width: 100px;
+    height: 30px;
+    background-color: turquoise;
+    border-radius: 7px;
+}
+
+.navbar-brand{
+    color: red;
+}
+
+.navbar{
+    background-color: grey;
+}
+
+body{
+    background-color: #E9ECEF;
+}
